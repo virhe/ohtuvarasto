@@ -1,5 +1,5 @@
 # ohtuvarasto
-Week 1 part 1 exercises for the course "Software Engineering" - University of Helsinki
+Week 1 exercises 2-13 for the course "Software Engineering" - University of Helsinki
 
 ![GHA_workflow_badge](https://github.com/virhe/ohtuvarasto/workflows/CI/badge.svg)
 
